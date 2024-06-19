@@ -11,6 +11,7 @@ fdsfdsfdsf
 public class StudentList {
 private Student;
 private Student2;
+private Student3;
     /**
      * @param args the command line arguments
      */
