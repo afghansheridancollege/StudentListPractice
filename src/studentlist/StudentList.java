@@ -10,6 +10,7 @@ fdsfdsfdsf
  */
 public class StudentList {
 private Student;
+private Student2;
     /**
      * @param args the command line arguments
      */
