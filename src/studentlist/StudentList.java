@@ -9,7 +9,7 @@ fdsfdsfdsf
  * @author amina hello testing
  */
 public class StudentList {
-
+private Student;
     /**
      * @param args the command line arguments
      */
