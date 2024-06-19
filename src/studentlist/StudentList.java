@@ -6,7 +6,7 @@ package studentlist;
 
 /**
  *
- * @author amina
+ * @author amina hello testing
  */
 public class StudentList {
 
